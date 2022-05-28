@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie Project</string>
+    <string name="searchBar_hint">Film ismini giriniz...</string>
+    <string name="genre">Adventure, Action</string>
+    <string name="search_btn_title">Ara</string>
+    <string name="search_text_null">Film ismi girmediniz!</string>
+    <string name="error_fail_service_connection">Bağlantıda bir problem oluştu!</string>
+    <string name="textImdb">IMDB: %1s</string>
+    <string name="no_movie_wtih_this_name">Girmiş olduğunuz isimde bir film bulunamadı!</string>
+    <string name="lorem">Lorem impsum, Lorem impsum,Lorem impsum,Lorem impsum,Lorem impsum,Lorem impsum,Lorem impsum,</string>
+    <string name="year">2001</string>
+    <string name="country">Usa</string>
+    <string name="runtime">135 min</string>
+    <string name="imdb_point">7.4</string>
+    <string name="movie_title">Batman</string>
+</resources>
